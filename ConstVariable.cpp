@@ -6,7 +6,8 @@ int main() {
     // (read only)
 
     const double pi = 3.1416;
-    pi = 420.69;
+    // pi = 420.69; 
+    // now this "pi" won't be change
     double radius = 10;
     double circumference = 2 * pi * radius;
 
